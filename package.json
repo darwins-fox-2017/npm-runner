@@ -1,0 +1,23 @@
+{
+  "name": "npm-runner-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "sass src/sass/extra.scss src/css/extra.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/didietsuryadi/npm-runner-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/didietsuryadi/npm-runner-1/issues"
+  },
+  "homepage": "https://github.com/didietsuryadi/npm-runner-1#readme",
+  "devDependencies": {
+    "sass": "^0.5.0"
+  }
+}
